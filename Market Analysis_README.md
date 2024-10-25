@@ -1,4 +1,4 @@
-# Project Overview: Bank Marketing Campaign Success Prediction
+# Project Overview: Market Analysis
 This project aims to predict the success of a bank marketing campaign based on customer data using a Decision Tree classifier. The dataset consists of information about individuals contacted for the campaign, such as their job, marital status, education, and financial attributes. The target variable is whether the client subscribed to the bank’s product (y), which is a binary outcome.
 
 ## Steps Followed:
